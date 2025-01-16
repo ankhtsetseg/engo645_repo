@@ -1,2 +1,2 @@
-# engo645_test_repo
+# engo645_repo
 This is a test repository for ENGO Lab 
